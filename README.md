@@ -9,10 +9,6 @@
 - **Machine Learning:** TensorFlow, scikit-learn
 - **MLOps:** Docker, Kubernetes, CI/CD
 
-## 📈 GitHub Contributions
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GangadharVG518" alt="GangadharVG518" /></a> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GangadharVG518&count_private=true&show_icons=true&theme=radical" alt="GangadharVG518" /></p>
-
 
 ## 📫 Let's Connect
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vgs_kings.518/)
